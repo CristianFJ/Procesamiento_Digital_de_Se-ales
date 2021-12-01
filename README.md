@@ -1,2 +1,2 @@
-# Procesamiento_Digital_de_Se-ales
+# Procesamiento_Digital_de_Señales
 Muestreo, Cuantificaciòn, Señales Anàlogas y Digitales con Python
